@@ -15,7 +15,7 @@ Files_Folder_list=[
     f"{project_source_name}/utils/__init__.py",
     "research/trials.ipynb",
     "config/config.yaml",
-    "dvc.yaml"
+    "dvc.yaml",
     "requirements.txt",
     "params.yaml",
     "setup.py",

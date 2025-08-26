@@ -4,7 +4,7 @@ from pathlib import Path
 project_source_name='src/cnnClassifier'
 
 Files_Folder_list=[
-    ".github/workflows/.gitkeep"
+    ".github/workflows/.gitkeep",
     f"{project_source_name}/__init__.py",
     f"{project_source_name}/components/__init__.py",
     f"{project_source_name}/config/__init__.py",
@@ -19,7 +19,8 @@ Files_Folder_list=[
     "requirements.txt",
     "params.yaml",
     "setup.py",
-    "templates/index.html"]
+    "templates/index.html",
+    ".gitignore"]
 
 
 for filepath in Files_Folder_list:

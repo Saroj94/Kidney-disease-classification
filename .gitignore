@@ -1,1 +1,3 @@
-kdcenv/
+venv/
+logs/
+kdcenv

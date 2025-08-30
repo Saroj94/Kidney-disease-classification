@@ -24,3 +24,6 @@
     pip unistall -y "Name of all the packages"
     pip uninstall -y tensorflow pandas numpy dvc mlflow matplotlib seaborn python-box pyyaml tqdm joblib scipy Flask Flask-Cors gdown
 ```
+
+## Created the common function and method in common.py file inside utils folder
+
